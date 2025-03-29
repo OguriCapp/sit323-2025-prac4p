@@ -16,7 +16,7 @@ Visit http://localhost:8080/subtract?num1=818num2=34 to know the result about su
 
 # Task4.2C
 
-Add additional calculator functions including Power, Sort and Modulo Also has 400 error checking when user inputs something which is not a number like "b". And the number which is moduled couldn't be zero  
+Add additional 3 calculator functions including Power, Sort and Modulo Also has 400 error checking when user inputs something which is not a number like "b". And the number which is moduled couldn't be zero  
 
 For example: Visit http://localhost:8080/sqrt?num=81 know the result about sorting 81  
 
